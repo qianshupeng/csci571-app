@@ -4,3 +4,5 @@
 <br>
 
 It is not allowed to publish my full code due to academic integrity, so the video is here to show the project demo. 
+
+[Android frontend video link](a link=https://drive.google.com/file/d/1N7MrMel9mNA08jvaymbHYG8_Z-uo7D4t/view?usp=sharing)
